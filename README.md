@@ -19,7 +19,7 @@ Policies published at https://www.duocircle.com/legal
 
 ## Brands Covered by these Policies
 
-https://www.duocircle.com
-https://www.phishprotection.com
-https://www.outboundsmtp.com
-https://www.mailhostingservice.com
+- https://www.duocircle.com
+- https://www.phishprotection.com
+- https://www.outboundsmtp.com
+- https://www.mailhostingservice.com
