@@ -33,18 +33,17 @@ The guidelines below are examples of practices that may violate this Policy when
 - Using purchased or rented Email lists;
 - Using third party email addresses, domain names, or mail servers without proper permission;
 - Sending Emails to non-specific addresses (e.g., webmaster@domain.com or info@domain.com);
--Sending Emails that result in an unacceptable number of spam or UCE complaints (even if the Emails themselves are not actually spam or UCE);
+- Sending Emails that result in an unacceptable number of spam or UCE complaints (even if the Emails themselves are not actually spam or UCE);
 - Failing to include a working “unsubscribe” link in each Email that allows the recipient to remove themselves from Your mailing list;
 - Failing to comply with any request from a recipient to be removed from Your mailing list within 10 days of receipt of the request;
-    Failing to include in each Email a link to the then-current Privacy Policy applicable to that Email;
-    Disguising the origin or subject matter of any Email or falsifying or manipulating the originating email address, subject line, headers, or transmission path information for any Email;
-    Failing to include in each Email Your valid physical mailing address or a link to that information; and
-    Including “junk mail,” “chain letters,” “pyramid schemes,” incentives (e.g., coupons, discounts, awards, or other incentives) or other material in any Email that encourages a recipient to forward the Email to another recipient
-    Sensitive Information. You will not import, or incorporate into, any contact lists or other content you upload to the Services or the Site, any of the following information: social security numbers, national insurance numbers, credit card data, passwords, security credentials, bank account numbers, or sensitive personal, health or financial information of any kind.
-    DuoCircle does not intend uses of the Service to create obligations under The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the Gramm-Leach-Bliley Act (“GLBA”) or similar laws and makes no representations that the Service satisfies the requirements of such laws. If You are (or become) a Covered Entity or Business Associate (as defined in HIPAA) or a Financial Institution (as defined in GLBA), You agree not to use the Service for any purpose or in any manner involving Protected Health Information (as defined in HIPAA) or Nonpublic Personal Information (as defined in GLBA).
+- Failing to include in each Email a link to the then-current Privacy Policy applicable to that Email;
+-  Disguising the origin or subject matter of any Email or falsifying or manipulating the originating email address, subject line, headers, or transmission path information for any Email;
+- Failing to include in each Email Your valid physical mailing address or a link to that information; and Including “junk mail,” “chain letters,” “pyramid schemes,” incentives (e.g., coupons, discounts, awards, or other incentives) or other material in any Email that encourages a recipient to forward the Email to another recipient
+- Sensitive Information. You will not import, or incorporate into, any contact lists or other content you upload to the Services or the Site, any of the following information: social security numbers, national insurance numbers, credit card data, passwords, security credentials, bank account numbers, or sensitive personal, health or financial information of any kind.
+-  DuoCircle does not intend uses of the Service to create obligations under The Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), the Gramm-Leach-Bliley Act (“GLBA”) or similar laws and makes no representations that the Service satisfies the requirements of such laws. If You are (or become) a Covered Entity or Business Associate (as defined in HIPAA) or a Financial Institution (as defined in GLBA), You agree not to use the Service for any purpose or in any manner involving Protected Health Information (as defined in HIPAA) or Nonpublic Personal Information (as defined in GLBA).
 
 8. PRIVACY POLICY
 Please see the Privacy Policy, for information on DuoCircle’s policies regarding Your personal and user information.
 
-98. REFUND POLICY
+9. REFUND POLICY
 Please see the Refund Policy, regarding the refund of payments made by You to DuoCircle.

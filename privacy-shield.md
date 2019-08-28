@@ -10,14 +10,15 @@ This EU-US Privacy Shield Statement applies to all Personal Data (defined below)
 
 DuoCircle Sites include:
 
-alumniforwarding.com
-autospf.com
-commando.io
-mailhostingservice.com
-outboundsmtp.com
-outboundemailfilter.com
-phishprotection.com
-tenantmigration.com
+- alumniforwarding.com
+- autospf.com
+- commando.io
+- mailhostingservice.com
+- outboundsmtp.com
+- outboundemailfilter.com
+- phishprotection.com
+- tenantmigration.com
+
 Definitions
 
 “Customer” or “Customers” means DuoCircle’s business customers that use the Services.
@@ -98,8 +99,6 @@ In compliance with the Privacy Shield Principles, DuoCircle commits to resolve c
 
 privacy@DuoCircle.com
 
- 
-
 DuoCircle has further committed to refer unresolved Privacy Shield complaints to the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit www.icdr.org for more information or to file a complaint. The services of ICDR/AAA are provided at no cost to you.
 
 With respect to Personal Data received or transferred pursuant to the Privacy Shield framework, DuoCircle is subject to the regulatory enforcement powers of the US Federal Trade Commission.
@@ -107,4 +106,10 @@ With respect to Personal Data received or transferred pursuant to the Privacy Sh
 In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
 Comments:
 
-If you have any questions, comments or concerns about our privacy practices, please contact us at DuoCircle, LLC, 6060 Nancy Ridge Dr, Suite 100 San Diego CA 92121 or at privacy@duocircle.com
+If you have any questions, comments or concerns about our privacy practices, please contact us at 
+
+DuoCircle LLC
+6060 Nancy Ridge Dr. 
+Suite 100
+San Diego, CA 92121
+privacy@duocircle.com

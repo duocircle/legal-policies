@@ -1,4 +1,4 @@
-Last Modified: December 9, 2014
+Last Modified: Tuesday, August 27, 2019
 
 NOTICE TO PARTIES SERVING SUBPOENAS ON DuoCircle LLC. (“DuoCircle”)
 
@@ -10,9 +10,9 @@ via email at: legal@duocircle.com
 DuoCircle’s physical address is:
 Custodian of Records
 DuoCircle LLC
-3914 Murphy Canyon Road
-Suite A-214
-San Diego, CA 92123
+6060 Nancy Ridge Dr. 
+Suite 100
+San Diego, CA 92121
 
 Acceptance of service by facsimile or email is strictly conditioned upon payment of charges. DuoCircle reserves the right to require payment in advance, to withhold delivery of information until payment is received and to seek enforcement of charges. Entities that fail to pay charges must physically serve process to DuoCircle in the State of Delaware.
 
@@ -59,9 +59,9 @@ Acceptable Payment Methods
 
 Subpoena Compliance Payments
 DuoCircle LLC
-3914 Murphy Canyon Road
-A-214
-San Diego, CA 92123
+6060 Nancy Ridge Dr. 
+Suite 100
+San Diego, CA 92121
 
 Include subpoena number on all communications payment of charges.
 Contact Information
