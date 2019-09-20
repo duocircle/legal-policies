@@ -15,7 +15,7 @@ Policies published at https://www.duocircle.com/legal
 * [Privacy Shield](https://github.com/duocircle/public-legal/blob/master/privacy-shield.md)
 * [Refund Policy](https://github.com/duocircle/public-legal/blob/master/refund.md)
 * [Service Level Targets](https://github.com/duocircle/public-legal/blob/master/service-level.md)
-* [Subsription Agreement](https://github.com/duocircle/public-legal/blob/master/subscription-agreement.md)
+* [Subscription Agreement](https://github.com/duocircle/public-legal/blob/master/subscription-agreement.md)
 * [Trademark Notices](https://github.com/duocircle/public-legal/blob/master/trademark.md)
 
 ## Brands Covered by these Policies
